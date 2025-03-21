@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+    background-color: brown;
+}
+
+nav h1 {
+   font-size: 35px; 
+   text-align: center;
+   color: blue;
+}
+
+nav {
+    background-color: brown;
+    height: 200px;
+}
+
+.my_person{
+    text-decoration: none;
+    color: rosybrown;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+aside h1{
+    font-size: 55px;
+}
+
+footer {
+   height: 200px;
+   background-color: yellow;
+}
+
+footer a {
+    
+}
+footer h1 {
+    color: blue;
+}
+
+footer p {
+    color: black;
+}
+
+header{
+    background-color: red;
+    height: 150px;
+}
+header p{
+    font-size: 20px;
+}
+header h1{
+    font-size: 35px;
+    color: green;
+}
+header h2{
+
+}
+main{
+    background-color: blue;
+    height: 2845px;
+}
+section{
+    background-color: blueviolet;
+}
+aside{
+   display: flex;
+}
