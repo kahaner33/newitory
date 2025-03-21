@@ -1,0 +1,2 @@
+# newitory
+to logika
